@@ -76,7 +76,7 @@ custom_blocks_enable=true
 
 # Add custom IPs to the register blocklist. One IP per line. Double quote the IP and add a comma at the end of each line.
 custom_blocks=$(cat <<EOF
-"54.37.140.42",
+"1.2.3.4",
 EOF
 )
 
